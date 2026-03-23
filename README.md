@@ -1,24 +1,28 @@
-# SQL Portfolio
+# Data Analytics SQL Portfolio
 
-Welcome to my SQL portfolio! This repository showcases beginner-friendly SQL projects that demonstrate my growing skills in data analysis and querying structured data.
+Welcome to my SQL portfolio. This repository showcases a collection of SQL projects focused on data analysis, data exploration, and solving business-driven questions using structured datasets.
 
-## Current Projects
-- **Superstore SQL Project** – A beginner SQL project using a sample retail dataset to practice:
-  - Creating tables
-  - Inserting data
-  - Sorting records
-  - Using filters
-  - Applying aggregate functions like `AVG()`
+## About This Repository
+This portfolio highlights my work across a variety of SQL projects designed to demonstrate analytical thinking, query development, and the ability to extract insights from data. Each project reflects practical use of SQL to organize, filter, analyze, and interpret information in meaningful ways.
 
-## Skills Demonstrated
-- SQL fundamentals
-- Data querying
-- Data filtering
-- Basic business analysis
-- Portfolio project development
+## Core Skills Demonstrated
+- Data querying and retrieval
+- Data filtering and sorting
+- Aggregations and summary statistics
+- Business-focused problem solving
+- Structured data analysis
+- SQL project documentation and organization
 
-## About Me
-I am building my skills in SQL, data analysis, and business insights as I transition into more data-focused roles.
+## Project Areas
+Projects in this repository may include:
+- Retail and sales analysis
+- Customer and product insights
+- Inventory analysis
+- Business performance reporting
+- Healthcare-related data analysis
+
+## Purpose
+This repository serves as a growing collection of SQL work that reflects both technical capability and an analytical approach to solving real-world business questions with data.
 
 ---
 **Created by Ashley Taylor**
